@@ -1,0 +1,29 @@
+<h1>Hi David!</h1>
+
+<div class="row" style="display: flex;">
+  <div class="col-xxl-4">
+    <nb-card>
+      <nb-card-header>Batterie Level</nb-card-header>
+      <nb-card-body>
+        <nb-progress-bar [value]="100" status="primary">100%</nb-progress-bar>
+      </nb-card-body>
+    </nb-card>
+  </div>
+  <div class="col-xxl-4">
+    <nb-card>
+      <nb-card-header>Signalstärke</nb-card-header>
+      <nb-card-body>
+        <nb-progress-bar [value]="100" status="info">100%</nb-progress-bar>
+      </nb-card-body>
+    </nb-card>
+  </div>
+  <div class="col-xxl-4" *ngFor="let statusCard of statusCards">
+    <ngx-status-card [title]="statusCard.title" [type]="statusCard.type">
+      <i [ngClass]="statusCard.iconClass"></i>
+    </ngx-status-card>
+  </div>
+</div>
+
+<!-- EEG Sensors:
+["AF3","F7","F3","FC5","T7","P7","O1","O2","P8","T8","FC6","F4","F8","AF4","OVERALL"]
+[2,0,3,0,1,0,0,4,0,1,0,1,0,3,24] -->
