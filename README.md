@@ -1,13 +1,13 @@
 # HeyBrain
 
-# Willommen zu HeyBrain
+## Willommen zu HeyBrain
 Das Ziel von HeyBrain ist es, dass man jeden handelsüblichen Computer so wie jedes mobile Gerät mithilfe der Gedanken steuern kann.
 
-##
+###
 
 HeyBrain soll es auch bestimmten beeinträchtigten Menschen vereinfachen die heutige Technik bedienen zu können.   
 
-##
+###
 
 Das wird durch die entsprechende Hardware von der Firma ddd ermöglicht die mit ihren Produkt den p300 des Menschen messen kann. Dadurch ist es möglich einzelne Buchstaben zu auszuwerten an die die Person denkt.
 
