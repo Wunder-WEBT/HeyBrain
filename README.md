@@ -21,7 +21,7 @@ Das wird durch die entsprechende Hardware von der Firma ddd ermöglicht die mit 
 | Primär: Menschen mit Handycaps |
 | Sekundär: Menschen die sich unterhalten wollen |
 
-|erwartetes Endergebnis |
+| erwartetes Endergebnis |
 | Eine funktionierende Software zur Nuzung eines Computers oder einses Tablets |
 | Erfüllung der Projektziele |
 
