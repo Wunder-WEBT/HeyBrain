@@ -11,6 +11,8 @@ HeyBrain soll es auch bestimmten beeinträchtigten Menschen vereinfachen die heu
 
 Das wird durch die entsprechende Hardware von der Firma ddd ermöglicht die mit ihren Produkt den p300 des Menschen messen kann. Dadurch ist es möglich einzelne Buchstaben zu auszuwerten an die die Person denkt.
 
+## Unser Projekt
+
 | Sinn und Zweck |
 | ----------|
 | Primär: Hilfe von Nutzung von PC´s für Leute mit einem Handycap |
@@ -27,7 +29,7 @@ Das wird durch die entsprechende Hardware von der Firma ddd ermöglicht die mit 
 | Erfüllung der Projektziele |
 
 
-## Projektziele
+## Funktionen
 - App zu vereinfachten Anwendung des Geräts
 - Autovervollständigung um das "Schreiben" längerer oder oft verwendeter Wörter zu erleichtern.
 - Lautstärke mithilfe von Gedanken regulieren zu können 
