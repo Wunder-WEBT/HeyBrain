@@ -22,6 +22,7 @@ Das wird durch die entsprechende Hardware von der Firma ddd ermöglicht die mit 
 | Sekundär: Menschen die sich unterhalten wollen |
 
 | erwartetes Endergebnis |
+|  ---------- |
 | Eine funktionierende Software zur Nuzung eines Computers oder einses Tablets |
 | Erfüllung der Projektziele |
 
