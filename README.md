@@ -9,7 +9,7 @@ HeyBrain soll es auch bestimmten beeinträchtigten Menschen vereinfachen die heu
 
 ###
 
-Das wird durch die entsprechende Hardware von der Firma Emotive ermöglicht die mit ihren Produkt den p300 des Menschen messen kann. Dadurch ist es möglich einzelne Buchstaben zu auszuwerten an die die Person denkt.
+Das wird durch die entsprechende Hardware von der Firma Emotiv ermöglicht die mit ihren Produkt den p300 des Menschen messen kann. Dadurch ist es möglich einzelne Buchstaben zu auszuwerten an die die Person denkt.
 
 ## Unser Projekt
 
