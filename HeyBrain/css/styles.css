@@ -49,6 +49,7 @@ html {
 body, p {
 	color: #777;
 	font: 400 1rem/1.75rem "Open Sans", sans-serif;
+
 }
 
 .p-large {
@@ -67,6 +68,9 @@ body, p {
 h1 {
 	color: #333;
 	font: 700 2.625rem/3.375rem "Open Sans", sans-serif;
+	font-size: 90px;
+	padding-top: 250px;
+	/*padding-bottom: 30px;*/
 }
 
 h2 {
@@ -151,6 +155,9 @@ a.red {
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
+	margin-left: 5px;
+	margin-right: 5px;
+	font-size: 30px;
 }
 
 .btn-solid-lg:hover {
@@ -739,4 +746,7 @@ input[type='checkbox'] {
 .header .deco-yellow-circle,
 .header .deco-green-diamond {
 	display: none;
+}
+.mainpage-div{
+	text-align: center;
 }
